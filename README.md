@@ -34,3 +34,4 @@ Our vision is to **rebuild trust in charitable giving** by removing intermediari
 
 contract address 0x5811904625786e560654Ac5467dfa9c7307Cd6F3
 blob:https://web.whatsapp.com/160db8a3-d43c-4169-b5fe-eda41aada071
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/ad13956c-247f-44e0-a926-12144abbaf0c" />
